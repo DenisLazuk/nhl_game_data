@@ -32,12 +32,19 @@ numpy
 
 ### How to use ###
 1. Import Libraries
-2. Load the data
-3. Clean the data
-4. Analyze the data
-5. Visualize the data
-6. Make conclusions
-7. Define further steps
+1. Load the data
+1. Clean the data
+1. Analyze the data
+1. Visualize the data
+1. Make conclusions
+1. Define further steps
+
+### External links:
+```
+https://www.kaggle.com/datasets/martinellis/nhl-game-data?resource=download&select=game.csv
+
+https://www.codecademy.com/journeys/data-scientist-aly/paths/dsalycj-22-bi-tools-for-data-scientists/tracks/dsalycj-22-final-portfolio-project/modules/dsaly-final-portfolio-project-c19c3552-f36d-4455-ae32-54093256f378/kanban_projects/data-analyst-final-portfolio
+```
 
 ## Conclusions
 **General**
